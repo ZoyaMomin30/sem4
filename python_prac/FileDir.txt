@@ -1,0 +1,2 @@
+This is my file. This file is made to check file directories of python.
+This is practical 3
